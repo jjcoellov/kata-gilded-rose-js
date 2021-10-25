@@ -1,0 +1,14 @@
+{
+  "name": "kata-gilded-rose-js",
+  "version": "1.0.0",
+  "description": "Gilded Rose Refactoring Kata",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
